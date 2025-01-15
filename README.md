@@ -50,7 +50,7 @@ studentoverflow/
 
 ## Checkpoints y Entregables
 
-Todos los entregrables etan en el FOLDER DE  link de [Tu Repositorio]([https://github.com/tu-usuario/studentoverflow](https://github.com/CRISTIANJULIOCESAR/PA-FINAL/tree/main/Entregables(E)%20y%20checkpoints(CP)))  
+Todos los entregrables etan en el FOLDER DE  link de [Tu Repositorio]([https://github.com/tu-usuario/studentoverflow](https://github.com/CRISTIANJULIOCESAR/PA-FINAL/tree/main/Entregables(E)%20y%20checkpoints(CP))  
 
 ## Enlaces Importantes
 
