@@ -77,13 +77,6 @@ Grabación de pantalla que muestra la persistencia de la sesión del usuario.
 
 
 
----
-
-## Licencia
-
-Este proyecto está bajo la licencia **MIT**. Puedes consultar el archivo [LICENSE](LICENSE) para más detalles (o agregar la licencia de tu preferencia).
-
----
 
 ### ¡Gracias por visitar StudentOverflow!
 Si tienes alguna duda o sugerencia, no dudes en abrir un _issue_ en el repositorio de GitHub o contribuir con _pull requests_.
