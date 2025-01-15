@@ -63,16 +63,17 @@ Todos los entregrables etan en el FOLDER DE  link de [Tu Repositorio]([https://g
 
 
 
-## **E2: Grabación de pantalla**
+
+## **E: Grabación de pantalla**
 Grabación de pantalla que muestra el flujo completo de la plataforma. Este video incluye los mismos pasos que el video anterior.  
-[![E2 Video](https://img.youtube.com/vi/Hv077kkot1s/0.jpg)](https://youtu.be/Hv077kkot1s)
+[![E2 Video](https://img.youtube.com/vi/Hv077kkot1s/1.jpg)](https://youtu.be/Hv077kkot1s)
 
 ---
 
-## **E3: Entregable 3**
+## **E:
 Grabación de pantalla que muestra la persistencia de la sesión del usuario.  
 **Descripción:** La sesión permanece activa aunque el usuario recargue la página, cierre temporalmente la aplicación o realice otras acciones sin necesidad de iniciar sesión nuevamente. Se demuestra con dos usuarios para ilustrar este comportamiento.  
-[![E3 Video](https://img.youtube.com/vi/TEBXrVvOjT8/0.jpg)](https://youtu.be/TEBXrVvOjT8)
+[![E3 Video](https://img.youtube.com/vi/TEBXrVvOjT8/2.jpg)](https://youtu.be/TEBXrVvOjT8)
 
 
 
