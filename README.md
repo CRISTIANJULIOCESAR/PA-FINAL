@@ -57,13 +57,17 @@ Todos los entregrables etan en el FOLDER DE  link de [Tu Repositorio]([https://g
 *(En esta sección, agrega los enlaces correspondientes a tu proyecto.)*
 
 - **Repositorio GitHub**: [Tu Repositorio](https://github.com/tu-usuario/studentoverflow)  
-- **Video Checkpoint 1** (Prototipo y estructura inicial): [Enlace de YouTube](#)  
-- **Video Checkpoint 2** (Diseño base de datos y flujos de usuario): [Enlace de YouTube](#)  
-- **Video Checkpoint 3** (Landing page, login y sign up): [Enlace de YouTube](#)  
-- **Video Checkpoint 4** (Autenticación y autorización): [Enlace de YouTube](#)  
-- **Video Checkpoint 5** (Página inicial dinámica): [Enlace de YouTube](#)
+- **Video GENERADOS:
 
-*(Reemplaza los “(#)” con tus enlaces reales.)*
+# Videos Generados
+
+- **Video 1:**
+  [![Video 1](https://img.youtube.com/vi/TEBXrVvOjT8/0.jpg)](https://www.youtube.com/watch?v=TEBXrVvOjT8&ab_channel=CristianPadron)
+
+- **Video 2:**
+  [![Video 2](https://img.youtube.com/vi/Hv077kkot1s/0.jpg)](https://www.youtube.com/watch?v=Hv077kkot1s&ab_channel=CristianPadron)
+
+
 
 ---
 
