@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>StudentOverflow</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        {% if current_user.is_authenticated %}
+          <li><a href="{{ url_for('main.index') }}">Inicio</a></li>
+          <li><a href="{{ url_for('main.ask') }}">Crear Pregunta</a></li>
+          <li><a href="{{ url_for('main.logout') }}">Cerrar Sesión</a></li>
+        {% else %}
+          <li><a href="{{ url_for('main.index') }}">Inicio</a></li>
+          <li><a href="{{ url_for('main.login') }}">Iniciar Sesión</a></li>
+          <li><a href="{{ url_for('main.register') }}">Registrarse</a></li>
+        {% endif %}
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Mensajes flash -->
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <ul>
+          {% for category, message in messages %}
+            <li class="{{ category }}">{{ message }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer>
+    <p>StudentOverflow &copy; 2025</p>
+  </footer>
+</body>
+</html>

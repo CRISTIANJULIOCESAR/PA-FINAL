@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Bienvenido a StudentOverflow</h1>
+<p>Aquí puedes hacer preguntas de tus materias y ayudar a otros con las suyas.</p>
+<p><a href="{{ url_for('main.login') }}">Inicia sesión</a> o <a href="{{ url_for('main.register') }}">crea una cuenta</a>.</p>
+{% endblock %}
